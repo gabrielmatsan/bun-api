@@ -36,6 +36,20 @@
       "when": 1731635166655,
       "tag": "0004_condemned_talon",
       "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1731756758016,
+      "tag": "0005_open_stick",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1731770641964,
+      "tag": "0006_vengeful_kat_farrell",
+      "breakpoints": true
     }
   ]
 }

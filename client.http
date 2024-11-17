@@ -2,9 +2,12 @@
 
 @base_url = http://localhost:3333
 
-GET  {{base_url}}
+POST {{base_url}}/restaurants
 Content-Type: application/json
 
 {
-
+  "restaurantName": "Pizza Heaven",
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "phone": "+1234567890",
 }
